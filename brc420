@@ -1,1 +1,14 @@
 https://docs.merlinchain.io/brc-420/
+
+{ 
+  "p": "brc-420",
+  "op": "deploy",
+  "id": "inscription id",
+  "name": "brc420 name",
+  "max": "2100",
+  "price": "0.001"
+}
+
+
+Good economic protocols will incentivize more people to participate in creation, resulting in better products that benefit the entire ecosystem. 
+These are the values and future deliverables that BRC-420 aims to provide.
